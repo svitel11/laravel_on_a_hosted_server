@@ -1,4 +1,4 @@
-public folder shold be set as root and it should contain an .htaccess file with the followings:
+#public folder shold be set as root and it should contain an .htaccess file with the followings:
 
 <IfModule mod_rewrite.c>
     <IfModule mod_negotiation.c>
